@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudramoni-ananth-yadav)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudramoniananthyadav@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/RudramoniAnanth)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/RUDRAMONI-ANANTH-YADAV/)
 
 </div>
 
@@ -31,7 +31,7 @@ approach:
 ```
 
 ### 🚀 Recent Highlights
-- **Led & Deployed** [MBNR VidyaEye](https://play.google.com/store/apps/details?id=com.mbnrvidhyaeye.hostelsurvey&pcampaignid=web_share) — A government-scale Android inspection system serving 15+ officers across 90+ institutions
+- **Led & Deployed** [MBNR VidyaEye](https://play.google.com/store) — A government-scale Android inspection system serving 15+ officers across 90+ institutions
 - **AI4Health Runner-Up (2nd Place)** — Built JAMMP for healthcare innovation challenge
 - **Runner-Up | 3rd Position** — CodeIT Webathon (Feb 2024)
 - **Runner-Up | 3rd Position** — Computer Society India (CSI) Project Expo (Aug 2023)
@@ -110,7 +110,7 @@ approach:
 ## 💼 Professional Experience
 
 ### 🎯 Technical Lead & Full-Stack Developer
-**MBNR VidyaEye** | *Feb 2025 – Present* | **[Deployed on Play Store](https://play.google.com/store/apps/details?id=com.mbnrvidhyaeye.hostelsurvey&pcampaignid=web_share)**
+**MBNR VidyaEye** | *Feb 2025 – Present* | **[Deployed on Play Store](https://play.google.com/store)**
 
 - Piloted design and deployment of a **real-time inspection system** used by 15+ officers to monitor 90+ residential institutions
 - Led full-stack development of Android app (Java) and web dashboard, orchestrating **backend architecture, database design, and authentication** using Firebase
@@ -125,7 +125,7 @@ approach:
 - Collaborated in an agile team using **Next.js, TypeScript, MongoDB, and Prisma** to deliver production-ready modules
 - Reduced manual tracking errors through automated sample tracking workflows
 
-### 💰 SDE Intern — Mobile Application Development
+### 💰 SDE Intern — FD Calculation Suite
 **Dhankuber Fintech** | *May 2025 – Jun 2025*
 
 - Delivered backend and core logic for **FD Calculator, FD Comparison system, and Rates Management dashboard** powering dynamic rate updates
@@ -141,7 +141,7 @@ approach:
 <tr>
 <td width="50%">
 
-### 🏥 [MBNR VidyaEye](https://play.google.com/store/apps/details?id=com.mbnrvidhyaeye.hostelsurvey&pcampaignid=web_share) 
+### 🏥 [MBNR VidyaEye](https://play.google.com/store) 
 **Technical Lead & Full-Stack Developer**
 
 **Deployed on Google Play Store**
