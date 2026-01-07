@@ -31,7 +31,7 @@ approach:
 ```
 
 ### 🚀 Recent Highlights
-- **Led & Deployed** [MBNR VidyaEye](https://play.google.com/store) — A government-scale Android inspection system serving 15+ officers across 90+ institutions
+- **Led & Deployed** [MBNR VidyaEye](https://play.google.com/store/apps/details?id=com.mbnrvidhyaeye.hostelsurvey&pcampaignid=web_share) — A government-scale Android inspection system serving 15+ officers across 90+ institutions
 - **AI4Health Runner-Up (2nd Place)** — Built JAMMP for healthcare innovation challenge
 - **Runner-Up | 3rd Position** — CodeIT Webathon (Feb 2024)
 - **Runner-Up | 3rd Position** — Computer Society India (CSI) Project Expo (Aug 2023)
@@ -110,7 +110,7 @@ approach:
 ## 💼 Professional Experience
 
 ### 🎯 Technical Lead & Full-Stack Developer
-**MBNR VidyaEye** | *Feb 2025 – Present* | **[Deployed on Play Store](https://play.google.com/store)**
+**MBNR VidyaEye** | *Feb 2025 – Present* | **[Deployed on Play Store](https://play.google.com/store/apps/details?id=com.mbnrvidhyaeye.hostelsurvey&pcampaignid=web_share)**
 
 - Piloted design and deployment of a **real-time inspection system** used by 15+ officers to monitor 90+ residential institutions
 - Led full-stack development of Android app (Java) and web dashboard, orchestrating **backend architecture, database design, and authentication** using Firebase
@@ -141,7 +141,7 @@ approach:
 <tr>
 <td width="50%">
 
-### 🏥 [MBNR VidyaEye](https://play.google.com/store) 
+### 🏥 [MBNR VidyaEye](https://play.google.com/store/apps/details?id=com.mbnrvidhyaeye.hostelsurvey&pcampaignid=web_share) 
 **Technical Lead & Full-Stack Developer**
 
 **Deployed on Google Play Store**
